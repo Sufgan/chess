@@ -1,0 +1,2 @@
+main-class: com.sufgan.chess.Main
+class-path: bin/
